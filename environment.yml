@@ -1,0 +1,12 @@
+name: titanic_ml_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - ipykernel
